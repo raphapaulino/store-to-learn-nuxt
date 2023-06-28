@@ -9,7 +9,7 @@ export default defineNuxtConfig({
         { name: 'description', content: 'Everything about Nuxt 3' }
       ],
       link: [
-        { rel: 'stylesheet', href: 'http://fonts.googleapis.com/icon?family=Material+Icons' }
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/icon?family=Material+Icons' }
       ]
     }
   },
