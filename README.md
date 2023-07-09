@@ -71,6 +71,7 @@ yarn preview
 - The [Nuxt deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 - The [Fake Store API](https://fakestoreapi.com/) used in this project.
 - The [Currency API](https://currencyapi.com/) used in this project.
+- The [NuxtTailwind](https://tailwindcss.nuxtjs.org/getting-started/setup/) used in this project.
 - The [Netlify](https://www.netlify.com/) platform that I used to make this project deployment.
 - The [The Net Ninja](https://www.netlify.com/) awesome Nuxt 3 crash course tutorial.
 
