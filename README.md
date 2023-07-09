@@ -1,18 +1,26 @@
-# Nuxt 3 Minimal Starter
+# Store to learn Nuxt 3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Introduction
+
+This project was created to improve my own knowledge about Nuxt technology. Feel free to fork, modify, start an issue and or only 
+download this repo and run it on your local environment to see how it's working.
+
+## The journey up to this point
+
+At this point in the project timeline I'm capable to understand:
+- How to install the base project;
+- How to create new pages and apply routes to navigate them;
+- How to create new pages that will receive and render params values;
+- How to create layouts to reusing code;
+- How to install third libraries like Tailwind CSS using Nuxt modules;
+- How to apply styles to the project using the tailwind.css default file; 
+- How to hydrate variables with API requests (fetchData(uri)) and much more...
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
 # yarn
 yarn install
 ```
@@ -22,12 +30,6 @@ yarn install
 Start the development server on `http://localhost:3000`:
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
 # yarn
 yarn dev
 ```
@@ -37,12 +39,6 @@ yarn dev
 Build the application for production:
 
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
 # yarn
 yarn build
 ```
@@ -50,14 +46,14 @@ yarn build
 Locally preview production build:
 
 ```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
 # yarn
 yarn preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### Check out: 
+- The [Nuxt deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- The [Fake Store API](https://fakestoreapi.com/) used in this project.
+- The [Currency API](https://currencyapi.com/) used in this project.
+- The [Netlify](https://www.netlify.com/) platform that I used to make this project deployment.
+
+Or... Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more like I did.
