@@ -18,6 +18,12 @@ At this point in the project timeline I'm capable to understand:
 
 ## Setup
 
+Locally I like to use [NVM](https://github.com/nvm-sh/nvm) to manage my Node JS setup. During this project development I used:
+
+```bash
+Node: v16.20.1
+```
+
 Make sure to install the dependencies:
 
 ```bash
